@@ -1,0 +1,4 @@
+$ This is log out functionality!
+
+
+
